@@ -1,0 +1,25 @@
+_repo: Winner-Take-All_18829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Larry
+    deathdate: 1925
+    gutenberg_agent_id: '8280'
+    url: http://www.gutenberg.org/2009/agents/8280
+description: ''
+gutenberg_issued: '2006-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Winner Take All
+url: http://www.gutenberg.org/ebooks/18829
